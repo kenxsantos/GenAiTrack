@@ -33,6 +33,7 @@ gem "bootsnap", require: false
 gem "bootstrap", "~> 5.3.0"
 gem "sassc-rails"
 gem 'bcrypt', '~> 3.1', '>= 3.1.12'
+gem "rails-controller-testing"
 # Deploy this application anywhere as a Docker container [https://kamal-deploy.org]
 gem "kamal", ">= 2.0.0.rc2", require: false
 
